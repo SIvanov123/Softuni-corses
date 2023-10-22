@@ -1,3 +1,8 @@
 IT IS TIME TO SLEEP !
 Go to dinner i am hungry.
+<<<<<<< HEAD
 I am create true conflict.
+=======
+conflict making
+>>>>>>> db5a4600e0a8b1e31b436c7e31979347b26a129f
+da be znam che e schupen
